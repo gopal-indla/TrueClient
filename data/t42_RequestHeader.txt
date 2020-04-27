@@ -1,0 +1,15 @@
+GET /search?source=hp&ei=_7SeXvbFCMb9kwWU-5XYBQ&q=load+runner&oq=load+runner&gs_lcp=CgZwc3ktYWIQAzIECAAQCjICCAAyAggAMgIIADIECAAQCjICCAAyBAgAEAoyAggAMgIIADICCAA6BQgAEIMBUMhqWIJ6YI2GAWgAcAB4AIABgAKIAfAJkgEFOS4xLjKYAQCgAQGqAQdnd3Mtd2l6sAEA&sclient=psy-ab&ved=0ahUKEwi2wajqkvnoAhXG_qQKHZR9BVsQ4dUDCAc&uact=5 HTTP/1.1
+Host: www.google.co.in
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://www.google.co.in/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: NID=202=tdj0Qp40dc8nQOQNBBnSrczqzY__eDo_SfCLBqlyVnU3PIY9LTQYeK6nGLARDxLtBxxbBOdAzJtZ62B68arnIbxVGwJBFWBrzTNYG24ijWn-qdkVQNy-4SqNokU5uxCPySfHlHuz7ZYWawluU7KAAG-rp6rTvN2A1T11whgT-SY; CONSENT=WP.285f05; 1P_JAR=2020-4-21-8
+

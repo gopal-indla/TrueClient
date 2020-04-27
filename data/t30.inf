@@ -1,0 +1,11 @@
+[t30]
+FileName1=t30_search.html
+URL1=https://www.google.co.in/complete/search?q=l&cp=1&client=psy-ab&xssi=t&gs_ri=gws-wiz&hl=en-IE&authuser=0&psi=_7SeXvbFCMb9kwWU-5XYBQ.1587459328101&ei=_7SeXvbFCMb9kwWU-5XYBQ
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_30.xml
+RequestHeaderFile=t30_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t30_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

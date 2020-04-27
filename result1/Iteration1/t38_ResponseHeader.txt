@@ -1,0 +1,12 @@
+HTTP/2.0 204
+Status: 204
+p3p: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657 for more info."
+timing-allow-origin: *
+cache-control: private, max-age=15
+content-type: text/html; charset=UTF-8
+x-content-type-options: nosniff
+date: Tue, 21 Apr 2020 09:53:59 GMT
+server: cafe
+x-xss-protection: 0
+alt-svc: quic="googleads.g.doubleclick.net:443"; ma=2592000; v="46,43",quic=":443"; ma=2592000; v="46,43",h3-Q050="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q049="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q043=":443"; ma=2592000,h3-T050="googleads.g.doubleclick.net:443"; ma=2592000,h3-T050=":443"; ma=2592000
+

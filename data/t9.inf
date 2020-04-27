@@ -1,0 +1,11 @@
+[t9]
+FileName1=t9.htm
+URL1=https://www.google.co.in/gen_204?s=webhp&t=aft&atyp=csi&ei=_7SeXvbFCMb9kwWU-5XYBQ&rt=wsrt.5437,aft.279,prt.142&bl=2amb&ima=2&imad=0&imn=3
+Total=1
+RequestHeaderFile=t9_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t9_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_9.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

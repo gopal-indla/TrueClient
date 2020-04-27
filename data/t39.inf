@@ -1,0 +1,11 @@
+[t39]
+FileName1=t39_search.html
+URL1=https://www.google.co.in/complete/search?q=load%20runn&cp=9&client=psy-ab&xssi=t&gs_ri=gws-wiz&hl=en-IE&authuser=0&psi=_7SeXvbFCMb9kwWU-5XYBQ.1587459328101&ei=_7SeXvbFCMb9kwWU-5XYBQ
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_39.xml
+RequestHeaderFile=t39_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t39_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

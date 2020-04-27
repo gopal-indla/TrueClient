@@ -1,0 +1,11 @@
+[t57]
+FileName1=t57_loading_24.gif
+URL1=https://ssl.gstatic.com/ui/v1/activityindicator/loading_24.gif
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_57.xml
+RequestHeaderFile=t57_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t57_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

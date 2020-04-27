@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Version: 306795749
+Content-Type: application/json; charset=UTF-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+Content-Disposition: attachment; filename="f.txt"
+Content-Encoding: br
+Date: Tue, 21 Apr 2020 08:55:47 GMT
+Server: gws
+Content-Length: 3757
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Alt-Svc: quic=":443"; ma=2592000; v="46,43",h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,h3-T050=":443"; ma=2592000
+

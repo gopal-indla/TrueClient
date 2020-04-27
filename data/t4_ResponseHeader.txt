@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Content-Type: image/gif
+Content-Length: 33895
+Date: Mon, 20 Apr 2020 16:44:09 GMT
+Expires: Tue, 20 Apr 2021 16:44:09 GMT
+Last-Modified: Thu, 09 Apr 2020 04:02:38 GMT
+X-Content-Type-Options: nosniff
+Server: sffe
+X-XSS-Protection: 0
+Cache-Control: public, max-age=31536000
+Age: 58278
+Alt-Svc: quic=":443"; ma=2592000; v="46,43",h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,h3-T050=":443"; ma=2592000
+

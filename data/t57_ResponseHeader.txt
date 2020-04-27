@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Content-Type: image/gif
+Vary: Origin
+Content-Length: 4465
+Date: Sat, 28 Mar 2020 03:34:59 GMT
+Expires: Sun, 28 Mar 2021 03:34:59 GMT
+Last-Modified: Tue, 03 Mar 2020 20:15:00 GMT
+X-Content-Type-Options: nosniff
+Server: sffe
+X-XSS-Protection: 0
+Cache-Control: public, max-age=31536000
+Age: 2092848
+Alt-Svc: quic=":443"; ma=2592000; v="46,43",h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,h3-T050=":443"; ma=2592000
+

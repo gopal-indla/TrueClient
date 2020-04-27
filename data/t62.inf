@@ -1,0 +1,11 @@
+[t62]
+FileName1=t62_twitter_32x32.png
+URL1=https://ssl.gstatic.com/kpui/social/twitter_32x32.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_62.xml
+RequestHeaderFile=t62_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t62_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

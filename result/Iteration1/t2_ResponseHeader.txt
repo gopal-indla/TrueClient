@@ -1,0 +1,18 @@
+HTTP/2.0 200
+Status: 200
+date: Tue, 21 Apr 2020 08:57:19 GMT
+expires: -1
+cache-control: private, max-age=0
+content-type: text/html; charset=UTF-8
+strict-transport-security: max-age=31536000
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+content-encoding: gzip
+server: gws
+content-length: 70999
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+set-cookie: 1P_JAR=2020-04-21-08; expires=Thu, 21-May-2020 08:57:19 GMT; path=/; domain=.google.co.in; Secure; SameSite=none
+set-cookie: NID=202=w1ty-u0GfvoRGa1L5a7rHx4faPJeBMl-Zv8qfjUMjyrpsItfnzus9OKHXUnKYILniCcvfZ6x9eeGX0n6HWFoBnSK2KLp2mfftUup_gr5vcpQ3klmiCgd-tzd56dcSFbkc2YMMMZgExcnxruLCJpGYEF50XX5qEMuNwMQTQsW_CY; expires=Wed, 21-Oct-2020 08:57:19 GMT; path=/; domain=.google.co.in; Secure; HttpOnly; SameSite=none
+set-cookie: CONSENT=WP.285f05; expires=Fri, 01-Jan-2038 00:00:00 GMT; path=/; domain=.google.co.in
+alt-svc: quic=":443"; ma=2592000; v="46,43",h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,h3-T050=":443"; ma=2592000
+

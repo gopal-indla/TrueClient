@@ -1,0 +1,11 @@
+[t69]
+FileName1=t69.htm
+URL1=https://www.google.co.in/gen_204?atyp=i&ei=EbWeXpuqEsORsAfc4IzIBw&ct=slh&v=2&m=HV&t=C&s=1&pv=0.26094389051709577&me=1:1587459347440,x:1,V,0,0,1280,580:0,N,1,EbWeXpuqEsORsAfc4IzIBw:0,R,1,7,24,46,92,15:0,R,1,CAkQAA,180,364,600,75:0,R,1,CAMQAA,180,467,600,119:0,R,1,CBUQAA,892,172,369,656:0,R,1,CBUQAQ,893,172,368,636:0,R,1,CAEQDA,1141,141,119,32:0,R,1,CBMQAw,894,185,366,62:0,R,1,CBYQAA,894,277,366,154:0,R,1,CBYQAQ,909,277,336,154:0,R,1,CAsQAA,894,444,366,22:0,R,1,CA0QAA,894,473,366,22:0,R,1,CA4QAA,894,502,366,22:0,R,1,CA8QAA,894,531,366,44:1,B,2532:1183,h,1,CAEQAA,i:0,h,1,CBMQAg,i:0,h,1,CBUQAQ,i:0,h,1,CBUQAA,i:2664,h,1,CAEQAA,o:1,h,1,CBMQAg,o:0,h,1,CBUQAQ,o:0,h,1,CBUQAA,o:1280,e,B&zx=1587459352574
+Total=1
+RequestHeaderFile=t69_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t69_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_69.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

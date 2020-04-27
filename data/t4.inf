@@ -1,0 +1,11 @@
+[t4]
+FileName1=t4_stay-home-save-lives-april-20-copy-6753651837108785-law.gif
+URL1=https://www.google.co.in/logos/doodles/2020/stay-home-save-lives-april-20-copy-6753651837108785-law.gif
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_4.xml
+RequestHeaderFile=t4_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t4_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

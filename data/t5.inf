@@ -1,0 +1,11 @@
+[t5]
+FileName1=t5_desktop_searchbox_sprites302_hr.html
+URL1=https://www.google.co.in/images/searchbox/desktop_searchbox_sprites302_hr.webp
+Total=1
+ContentType=image/webp
+SnapshotXmlFile=snapshot_5.xml
+RequestHeaderFile=t5_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t5_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

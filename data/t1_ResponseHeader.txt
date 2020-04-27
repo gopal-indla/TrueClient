@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Im: gzip
+X-Content-Type-Options: nosniff
+X-Country: ie
+X-Frame-Options: SAMEORIGIN
+X-Seed-Signature: MEQCICavw1Ix93h9NMSUqHxqv8DMexzG1rrLgvBe/Ws4ZED7AiA3Uro2dqTzAU+ktqrKEEP65upHncxuc8XMsP93SMz43A==
+X-Xss-Protection: 0
+Date: Tue, 21 Apr 2020 08:55:27 GMT
+Content-Type: application/x-gzip
+Transfer-Encoding: chunked
+Alt-Svc: quic=":443"; ma=2592000; v="46,43",h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,h3-T050=":443"; ma=2592000
+

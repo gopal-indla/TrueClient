@@ -1,0 +1,11 @@
+[hosts]
+www.google.co.in=
+clientservices.googleapis.com=
+accounts.google.com=
+ssl.gstatic.com=
+www.gstatic.com=
+consent.google.com=
+content-autofill.googleapis.com=
+apis.google.com=
+ogs.google.co.in=
+adservice.google.co.in=

@@ -1,0 +1,15 @@
+GET /widget/app/so?origin=https%3A%2F%2Fwww.google.co.in&pid=1&spid=1&hl=en&gm= HTTP/1.1
+Host: ogs.google.co.in
+Connection: keep-alive
+Origin: https://www.google.co.in
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36
+Accept: application/signed-exchange;v=b3;q=0.9,*/*;q=0.8
+Purpose: prefetch
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.google.co.in/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: CONSENT=WP.285f05; 1P_JAR=2020-04-21-08; NID=202=WGwVk99jomgXf6cckz9lFa7i-jP5qBZgzNSXwDd1Is7fIeuvFGAP22onsBjiRETRI1E8UxNhh13KvjydqyPpUUYInChuhiBarL_32x1PZSQWQelDbL_Ys3d5qqYqL83fs0qwyjlPIjqxTJ78lPOFerZTEfSdK_hv8g1ZSN8Fde4
+

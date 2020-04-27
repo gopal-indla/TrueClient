@@ -1,0 +1,11 @@
+[t28]
+FileName1=t28_search.html
+URL1=https://www.google.co.in/complete/search?q&cp=0&client=psy-ab&xssi=t&gs_ri=gws-wiz&hl=en-IE&authuser=0&psi=_7SeXvbFCMb9kwWU-5XYBQ.1587459328101&ei=_7SeXvbFCMb9kwWU-5XYBQ&nolsbt=1
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_28.xml
+RequestHeaderFile=t28_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t28_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

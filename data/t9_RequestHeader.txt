@@ -1,0 +1,16 @@
+POST /gen_204?s=webhp&t=aft&atyp=csi&ei=_7SeXvbFCMb9kwWU-5XYBQ&rt=wsrt.5437,aft.279,prt.142&bl=2amb&ima=2&imad=0&imn=3 HTTP/1.1
+Host: www.google.co.in
+Connection: keep-alive
+Content-Length: 0
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.google.co.in
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.google.co.in/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: 1P_JAR=2020-04-21-08; NID=202=tdj0Qp40dc8nQOQNBBnSrczqzY__eDo_SfCLBqlyVnU3PIY9LTQYeK6nGLARDxLtBxxbBOdAzJtZ62B68arnIbxVGwJBFWBrzTNYG24ijWn-qdkVQNy-4SqNokU5uxCPySfHlHuz7ZYWawluU7KAAG-rp6rTvN2A1T11whgT-SY; CONSENT=WP.285f05
+

@@ -1,0 +1,11 @@
+[t45]
+FileName1=t45_loading_24.gif
+URL1=https://www.gstatic.com/ui/v1/activityindicator/loading_24.gif
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_45.xml
+RequestHeaderFile=t45_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t45_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

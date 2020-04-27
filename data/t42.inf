@@ -1,0 +1,11 @@
+[t42]
+FileName1=t42_search.htm
+URL1=https://www.google.co.in/search?source=hp&ei=_7SeXvbFCMb9kwWU-5XYBQ&q=load+runner&oq=load+runner&gs_lcp=CgZwc3ktYWIQAzIECAAQCjICCAAyAggAMgIIADIECAAQCjICCAAyBAgAEAoyAggAMgIIADICCAA6BQgAEIMBUMhqWIJ6YI2GAWgAcAB4AIABgAKIAfAJkgEFOS4xLjKYAQCgAQGqAQdnd3Mtd2l6sAEA&sclient=psy-ab&ved=0ahUKEwi2wajqkvnoAhXG_qQKHZR9BVsQ4dUDCAc&uact=5
+Total=1
+ContentType=text/html
+SnapshotXmlFile=snapshot_42.xml
+RequestHeaderFile=t42_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t42_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

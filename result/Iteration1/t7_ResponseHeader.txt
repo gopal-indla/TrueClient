@@ -1,0 +1,18 @@
+HTTP/2.0 200
+Status: 200
+content-type: text/html; charset=utf-8
+access-control-allow-origin: https://www.google.co.in
+access-control-allow-credentials: true
+x-frame-options: ALLOW-FROM https://www.google.co.in
+x-ua-compatible: IE=edge
+expires: Tue, 21 Apr 2020 08:57:20 GMT
+date: Tue, 21 Apr 2020 08:57:20 GMT
+cache-control: private, max-age=259200
+content-security-policy: script-src 'report-sample' 'nonce-Tl5ecIwwtLVQ7OzzZHyZpA' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/OneGoogleWidgetUi/cspreport;worker-src 'self'
+content-security-policy: script-src 'nonce-Tl5ecIwwtLVQ7OzzZHyZpA' 'self' 'unsafe-eval' https://apis.google.com https://ssl.gstatic.com https://www.google.com https://www.gstatic.com https://www.google-analytics.com;report-uri /_/OneGoogleWidgetUi/cspreport;frame-ancestors https://www.google.co.in
+content-encoding: gzip
+server: ESF
+x-xss-protection: 0
+x-content-type-options: nosniff
+alt-svc: quic=":443"; ma=2592000; v="46,43",h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,h3-T050=":443"; ma=2592000
+

@@ -1,0 +1,136 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Custom Request: ListAccounts",
+                "infFile": "t1.inf",
+                "time": 1587459439045
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: www.google.co.in",
+                "infFile": "t2.inf",
+                "time": 1587459439377
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: so",
+                "infFile": "t7.inf",
+                "time": 1587459441930
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: search",
+                "infFile": "t12.inf",
+                "time": 1587459443550
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: search_2",
+                "infFile": "t14.inf",
+                "time": 1587459443708
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: search_3",
+                "infFile": "t15.inf",
+                "time": 1587459443820
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: search_4",
+                "infFile": "t16.inf",
+                "time": 1587459444564
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Url: search_5",
+                "infFile": "t17.inf",
+                "time": 1587459444656
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Url: search_6",
+                "infFile": "t18.inf",
+                "time": 1587459444744
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Url: search_7",
+                "infFile": "t19.inf",
+                "time": 1587459444837
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Url: search_8",
+                "infFile": "t20.inf",
+                "time": 1587459444989
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Url: search_9",
+                "infFile": "t21.inf",
+                "time": 1587459445083
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Url: search_10",
+                "infFile": "t22.inf",
+                "time": 1587459445173
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Url: search_11",
+                "infFile": "t23.inf",
+                "time": 1587459445265
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Url: search_12",
+                "infFile": "t24.inf",
+                "time": 1587459445378
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Url: search_13",
+                "infFile": "t25.inf",
+                "time": 1587459446010
+            },
+            {
+                "stepId": "STEP17",
+                "stepName": "Url: so_2",
+                "infFile": "t29.inf",
+                "time": 1587459446480
+            },
+            {
+                "stepId": "STEP18",
+                "stepName": "Url: search_14",
+                "infFile": "t31.inf",
+                "time": 1587459446626
+            },
+            {
+                "stepId": "STEP19",
+                "stepName": "Url: bgasy",
+                "infFile": "t34.inf",
+                "time": 1587459447042
+            },
+            {
+                "stepId": "STEP20",
+                "stepName": "Url: ecr",
+                "infFile": "t36.inf",
+                "time": 1587459447183
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "1_transaction",
+                "rawStartTime": 1587459442196,
+                "rawEndTime": 1587459447832,
+                "thinkTime": 0.0,
+                "wastedTime": 0.2895188331604004
+            }
+        ]
+    }
+]

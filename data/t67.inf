@@ -1,0 +1,11 @@
+[t67]
+FileName1=t67.htm
+URL1=https://www.google.co.in/gen_204?atyp=csi&ei=EbWeXpuqEsORsAfc4IzIBw&s=web&t=all&bl=2amb&imn=16&adh=&conn=onchange&ima=1&imad=0&ime=1&imex=1&imeh=6&imea=0&imeb=7&wh=580&scp=0&fld=1830&net=dl.1450,ect.4g,rtt.100&mem=ujhs.13,tjhs.23,jhsl.2173,dm.8&sto=&sys=hc.8&rt=sct.489,iml.1166,prt.1138,aft.1138,dcl.1160,xjsls.1170,xjses.1622,xjsee.1653,xjs.1653,ol.3085,wsrt.114,cst.0,dnst.0,rqst.759,rspt.652,rqstt.7,unt.5,ppunt.2,cstt.5,dit.1274&zx=1587459348458
+Total=1
+RequestHeaderFile=t67_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t67_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_67.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

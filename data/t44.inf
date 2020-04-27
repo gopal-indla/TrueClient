@@ -1,0 +1,11 @@
+[t44]
+FileName1=t44_status.htm
+URL1=https://consent.google.com/status?continue=https://www.google.co.in&m=0&pc=s&timestamp=1587459345&gl=IE
+Total=1
+ContentType=text/html
+SnapshotXmlFile=snapshot_44.xml
+RequestHeaderFile=t44_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t44_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Tue, 21 Apr 2020 08:55:27 GMT
+Expires: -1
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=31536000
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Content-Encoding: br
+Server: gws
+Content-Length: 65753
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: 1P_JAR=2020-04-21-08; expires=Thu, 21-May-2020 08:55:27 GMT; path=/; domain=.google.co.in; Secure; SameSite=none
+Set-Cookie: NID=202=tdj0Qp40dc8nQOQNBBnSrczqzY__eDo_SfCLBqlyVnU3PIY9LTQYeK6nGLARDxLtBxxbBOdAzJtZ62B68arnIbxVGwJBFWBrzTNYG24ijWn-qdkVQNy-4SqNokU5uxCPySfHlHuz7ZYWawluU7KAAG-rp6rTvN2A1T11whgT-SY; expires=Wed, 21-Oct-2020 08:55:27 GMT; path=/; domain=.google.co.in; Secure; HttpOnly; SameSite=none
+Set-Cookie: CONSENT=WP.285f05; expires=Fri, 01-Jan-2038 00:00:00 GMT; path=/; domain=.google.co.in
+Alt-Svc: quic=":443"; ma=2592000; v="46,43",h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,h3-T050=":443"; ma=2592000
+

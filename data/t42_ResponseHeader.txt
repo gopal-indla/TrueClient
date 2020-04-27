@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 21 Apr 2020 08:55:45 GMT
+Expires: -1
+Cache-Control: private, max-age=0
+Strict-Transport-Security: max-age=31536000
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Content-Encoding: br
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Transfer-Encoding: chunked
+Set-Cookie: 1P_JAR=2020-04-21-08; expires=Thu, 21-May-2020 08:55:45 GMT; path=/; domain=.google.co.in; Secure; SameSite=none
+Set-Cookie: CGIC=Inx0ZXh0L2h0bWwsYXBwbGljYXRpb24veGh0bWwreG1sLGFwcGxpY2F0aW9uL3htbDtxPTAuOSxpbWFnZS93ZWJwLGltYWdlL2FwbmcsKi8qO3E9MC44LGFwcGxpY2F0aW9uL3NpZ25lZC1leGNoYW5nZTt2PWIzO3E9MC45; expires=Sun, 18-Oct-2020 08:55:45 GMT; path=/complete/search; domain=.google.co.in; HttpOnly
+Set-Cookie: CGIC=Inx0ZXh0L2h0bWwsYXBwbGljYXRpb24veGh0bWwreG1sLGFwcGxpY2F0aW9uL3htbDtxPTAuOSxpbWFnZS93ZWJwLGltYWdlL2FwbmcsKi8qO3E9MC44LGFwcGxpY2F0aW9uL3NpZ25lZC1leGNoYW5nZTt2PWIzO3E9MC45; expires=Sun, 18-Oct-2020 08:55:45 GMT; path=/search; domain=.google.co.in; HttpOnly
+Set-Cookie: NID=202=WGwVk99jomgXf6cckz9lFa7i-jP5qBZgzNSXwDd1Is7fIeuvFGAP22onsBjiRETRI1E8UxNhh13KvjydqyPpUUYInChuhiBarL_32x1PZSQWQelDbL_Ys3d5qqYqL83fs0qwyjlPIjqxTJ78lPOFerZTEfSdK_hv8g1ZSN8Fde4; expires=Wed, 21-Oct-2020 08:55:45 GMT; path=/; domain=.google.co.in; Secure; HttpOnly; SameSite=none
+Alt-Svc: quic=":443"; ma=2592000; v="46,43",h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,h3-T050=":443"; ma=2592000
+

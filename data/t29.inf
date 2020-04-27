@@ -1,0 +1,11 @@
+[t29]
+FileName1=t29.htm
+URL1=https://www.google.co.in/gen_204?atyp=i&ei=_7SeXvbFCMb9kwWU-5XYBQ&ved=0ahUKEwi2wajqkvnoAhXG_qQKHZR9BVsQ39UDCAQ&zx=1587459341728
+Total=1
+RequestHeaderFile=t29_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t29_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_29.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

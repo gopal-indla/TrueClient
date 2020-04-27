@@ -1,0 +1,11 @@
+[t60]
+FileName1=t60_email_grey600_24dp.png
+URL1=https://www.google.co.in/images/icons/material/system/1x/email_grey600_24dp.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_60.xml
+RequestHeaderFile=t60_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t60_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

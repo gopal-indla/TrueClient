@@ -1,0 +1,11 @@
+[t35]
+FileName1=t35_search.html
+URL1=https://www.google.co.in/complete/search?q=load%20r&cp=6&client=psy-ab&xssi=t&gs_ri=gws-wiz&hl=en-IE&authuser=0&psi=_7SeXvbFCMb9kwWU-5XYBQ.1587459328101&ei=_7SeXvbFCMb9kwWU-5XYBQ
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_35.xml
+RequestHeaderFile=t35_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t35_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

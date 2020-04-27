@@ -1,0 +1,13 @@
+GET /xjs/_/js/k=xjs.s.en_GB.PK9KWMpaDU8.O/ck=xjs.s.3WRIPZXiutg.L.W.O/am=AkAAAACwBGDXHSDgfxMAAAB2DAAAgAAuIthYIIxIKAhAALaaAAIB/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,cdos,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/br=1/ct=zgms/rs=ACT90oG17oX98_-7FedJoY66PnVPPoL1Dg/m=NpD4ec,RqxLvf,aa,abd,async,dv7Bfe,dvl,fEVMic,foot,k27Oqb,kVbfxd,lu,m,mUpTid,mu,sb_wiz,sf,sonic,spch,xz7cCd?xjs=s1 HTTP/1.1
+Host: www.google.co.in
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.google.co.in/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: NID=202=tdj0Qp40dc8nQOQNBBnSrczqzY__eDo_SfCLBqlyVnU3PIY9LTQYeK6nGLARDxLtBxxbBOdAzJtZ62B68arnIbxVGwJBFWBrzTNYG24ijWn-qdkVQNy-4SqNokU5uxCPySfHlHuz7ZYWawluU7KAAG-rp6rTvN2A1T11whgT-SY; CONSENT=WP.285f05; 1P_JAR=2020-4-21-8
+

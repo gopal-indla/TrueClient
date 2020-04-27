@@ -1,0 +1,16 @@
+POST /gen_204?atyp=csi&ei=EbWeXpuqEsORsAfc4IzIBw&s=web&t=all&bl=2amb&imn=16&adh=&conn=onchange&ima=1&imad=0&ime=1&imex=1&imeh=6&imea=0&imeb=7&wh=580&scp=0&fld=1830&net=dl.1450,ect.4g,rtt.100&mem=ujhs.13,tjhs.23,jhsl.2173,dm.8&sto=&sys=hc.8&rt=sct.489,iml.1166,prt.1138,aft.1138,dcl.1160,xjsls.1170,xjses.1622,xjsee.1653,xjs.1653,ol.3085,wsrt.114,cst.0,dnst.0,rqst.759,rspt.652,rqstt.7,unt.5,ppunt.2,cstt.5,dit.1274&zx=1587459348458 HTTP/1.1
+Host: www.google.co.in
+Connection: keep-alive
+Content-Length: 0
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.google.co.in
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.google.co.in/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: CONSENT=WP.285f05; NID=202=WGwVk99jomgXf6cckz9lFa7i-jP5qBZgzNSXwDd1Is7fIeuvFGAP22onsBjiRETRI1E8UxNhh13KvjydqyPpUUYInChuhiBarL_32x1PZSQWQelDbL_Ys3d5qqYqL83fs0qwyjlPIjqxTJ78lPOFerZTEfSdK_hv8g1ZSN8Fde4; 1P_JAR=2020-04-21-08; DV=s6KeaXkRf1krECjFbPp1FKBX3jS_GZfyqnMyKQBBBwAAAAA
+

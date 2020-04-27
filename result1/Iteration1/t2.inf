@@ -1,0 +1,16 @@
+[t2]
+SnapshotXmlFile=snapshot_3.xml
+ContentType=text/html
+StepName=Url: www.google.co.in
+Total=2
+FileName1=t2.html
+FileName2=t1_0_seed.gz
+RequestHeaderFile=t2_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t2_ResponseHeader.txt
+RawStepEndTime=0
+RawStepName=www.google.co.in
+RequestBodyFile=t2_RequestBody.txt
+RawStepStartTime=1587462812657
+URL1=https://www.google.co.in/?gws_rd=ssl
+URL2=https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=81

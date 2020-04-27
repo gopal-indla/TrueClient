@@ -1,0 +1,11 @@
+[t8]
+FileName1=t8_googlemic_color_24dp.png
+URL1=https://www.gstatic.com/images/branding/googlemic/2x/googlemic_color_24dp.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_8.xml
+RequestHeaderFile=t8_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t8_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

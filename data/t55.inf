@@ -1,0 +1,11 @@
+[t55]
+FileName1=t55_Chc2LjEuMTcxNS4xNDQyL2VuIChHR0xMKRIYCbi5G7ztz11vEgsNSoWeUhIAGgAiABoA.txt
+URL1=https://content-autofill.googleapis.com/v1/pages/Chc2LjEuMTcxNS4xNDQyL2VuIChHR0xMKRIYCbi5G7ztz11vEgsNSoWeUhIAGgAiABoA?alt=proto
+Total=1
+ContentType=text/plain
+SnapshotXmlFile=snapshot_55.xml
+RequestHeaderFile=t55_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t55_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

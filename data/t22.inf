@@ -1,0 +1,11 @@
+[t22]
+FileName1=t22.htm
+URL1=https://www.google.co.in/gen_204?atyp=csi&ei=_7SeXvbFCMb9kwWU-5XYBQ&s=webhp&t=all&bl=2amb&imn=3&adh=&conn=onchange&ima=2&imad=0&ime=2&imex=2&imeh=1&imea=0&imeb=0&wh=580&scp=0&net=dl.1450,ect.4g,rtt.100&mem=ujhs.7,tjhs.12,jhsl.2173,dm.8&sto=&sys=hc.8&rt=aft.279,iml.503,prt.142,dcl.185,xjsls.198,xjses.842,xjsee.872,xjs.872,ol.3236,wsrt.5437,cst.1123,dnst.0,rqst.1079,rspt.73,sslt.1096,rqstt.4431,unt.3296,cstt.3308,dit.5622&zx=1587459330448
+Total=1
+RequestHeaderFile=t22_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t22_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_22.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

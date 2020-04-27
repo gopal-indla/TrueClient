@@ -1,0 +1,14 @@
+HTTP/2.0 200
+Status: 200
+date: Tue, 21 Apr 2020 08:57:25 GMT
+expires: Tue, 21 Apr 2020 08:57:25 GMT
+cache-control: private, max-age=3600
+content-type: application/json; charset=UTF-8
+strict-transport-security: max-age=31536000
+content-disposition: attachment; filename="f.txt"
+content-encoding: gzip
+server: gws
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: quic=":443"; ma=2592000; v="46,43",h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,h3-T050=":443"; ma=2592000
+
