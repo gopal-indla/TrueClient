@@ -792,7 +792,7 @@ Action()
 
 	web_concurrent_end(NULL);
 
-	web_add_cookie("DV=s6KeaXkRf1krECjFbPp1FKBX3jS_GZfyqnMyKQBBBwAAAAA; DOMAIN=www.google.co.in");
+	//web_add_cookie("DV=s6KeaXkRf1krECjFbPp1FKBX3jS_GZfyqnMyKQBBBwAAAAA; DOMAIN=www.google.co.in");
 
 	web_add_auto_header("Origin", 
 		"https://www.google.co.in");
